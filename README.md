@@ -1,4 +1,3 @@
 
 # Leib
-Author - Piyush Jha 
-
+Author - Piyush Jha (NIT Hamirpur)
